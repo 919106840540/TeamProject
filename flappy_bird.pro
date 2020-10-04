@@ -31,11 +31,7 @@ SOURCES += \
     block.cpp \
     button.cpp \
     textboard.cpp \
-    rank.cpp \
-    score.cpp \
-    shop.cpp \
-    gold.cpp \
-    bullet.cpp
+    
 
 HEADERS += \
     bird.h \
@@ -43,18 +39,12 @@ HEADERS += \
     block.h \
     button.h \
     textboard.h \
-    rank.h \
-    score.h \
-    shop.h \
-    gold.h \
-    bullet.h
+    
 
 FORMS += \
-    rank.ui
+    
 
 RESOURCES += \
-    res.qrc \
+    
 
-DISTFILES += \
-    pics/backgound2.jpg
 
